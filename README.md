@@ -105,7 +105,7 @@ These Terms shall be governed and construed in accordance with the laws of Turke
 ## 14. Contact Information
 
 For questions about these Terms of Use, please contact us at:
-- Email: support@ytsummarizer.com
-- Website: www.ytsummarizer.com
+- Email: ytsummarizer@gmail.com
+
 
 By using YTSummarizer, you acknowledge that you have read these Terms of Use, understood them, and agree to be bound by them.
